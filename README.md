@@ -166,7 +166,7 @@ for (item of buttons) {
 ![OUTPUT](./result.png)
 
 ### HTML validator:
-![HTMLVALIDATOR](./validation 08.png)
+![HTMLVALIDATOR](./valid.png)
 
 ## Result:
 The program for designing simple calculator using javascript is executed successfully.
